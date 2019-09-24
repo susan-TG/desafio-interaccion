@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="363" height="363" viewBox="0 0 363 363" class="undefined">
+<style>
+  .a{
+    fill:none;
+    stroke-width:1;
+    stroke:none;
+  }
+  .b{
+    fill:#FF6B6C;
+  }
+</style>
+  <title class="undefined">
+    Rectangle
+  </title>
+  <desc class="undefined">
+    Created with Sketch.
+  </desc>
+  <g class="a">
+    <g class="b">
+      <polygon transform="translate(-50 -18)translate(231.5 199.5)rotate(-270)translate(-231.5 -199.5)" points="50.5 18.5 168.6 114.5 412.5 18.5 231.5 199.5 412.5 380.5 168.6 312.9 50.5 380.5" class="undefined"/>
+    </g>
+  </g>
+</svg>
